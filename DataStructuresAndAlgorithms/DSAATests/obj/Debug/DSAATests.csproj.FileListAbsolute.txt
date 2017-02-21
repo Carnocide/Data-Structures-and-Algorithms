@@ -1,0 +1,14 @@
+C:\Users\zackg\OneDrive\Personal_Projects\DataStructuresAndAlgorithms\DSAATests\bin\Debug\DSAATests.dll
+C:\Users\zackg\OneDrive\Personal_Projects\DataStructuresAndAlgorithms\DSAATests\bin\Debug\DSAATests.pdb
+C:\Users\zackg\OneDrive\Personal_Projects\DataStructuresAndAlgorithms\DSAATests\bin\Debug\DataStructuresAndAlgorithms.exe
+C:\Users\zackg\OneDrive\Personal_Projects\DataStructuresAndAlgorithms\DSAATests\bin\Debug\DataStructuresAndAlgorithms.pdb
+C:\Users\zackg\OneDrive\Personal_Projects\DataStructuresAndAlgorithms\DSAATests\obj\Debug\DSAATests.csprojResolveAssemblyReference.cache
+C:\Users\zackg\OneDrive\Personal_Projects\DataStructuresAndAlgorithms\DSAATests\obj\Debug\DSAATests.dll
+C:\Users\zackg\OneDrive\Personal_Projects\DataStructuresAndAlgorithms\DSAATests\obj\Debug\DSAATests.pdb
+C:\Users\Zachary\Downloads\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\DSAATests\obj\Debug\DSAATests.csprojResolveAssemblyReference.cache
+C:\Users\Zachary\Downloads\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\DSAATests\obj\Debug\DSAATests.dll
+C:\Users\Zachary\Downloads\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\DSAATests\obj\Debug\DSAATests.pdb
+C:\Users\Zachary\Downloads\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\DSAATests\bin\Debug\DSAATests.dll
+C:\Users\Zachary\Downloads\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\DSAATests\bin\Debug\DSAATests.pdb
+C:\Users\Zachary\Downloads\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\DSAATests\bin\Debug\DataStructuresAndAlgorithms.exe
+C:\Users\Zachary\Downloads\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\DSAATests\bin\Debug\DataStructuresAndAlgorithms.pdb

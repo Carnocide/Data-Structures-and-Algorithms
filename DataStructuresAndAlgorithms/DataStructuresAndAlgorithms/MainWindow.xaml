@@ -1,0 +1,38 @@
+﻿<Window x:Class="DataStructuresAndAlgorithms.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataStructuresAndAlgorithms"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label x:Name="dataSizeLabel" Content="Data Size" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="smallSizeButton" Content="Small (100)" GroupName="databuttons" HorizontalAlignment="Left" Margin="10,36,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="mediumSizeButton" Content="Medium (1000)" GroupName="databuttons" HorizontalAlignment="Left" Margin="10,56,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="largeSizeButton" Content="Large (10000)" GroupName="databuttons" HorizontalAlignment="Left" Margin="10,76,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="extraLargeSizeButton" Content="Extra Large (100000)" GroupName="databuttons" HorizontalAlignment="Left" Margin="10,96,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="fromXMLButton" Content="Load From XML" GroupName="databuttons" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,116,0,0"/>
+
+        <Label x:Name="situationLabel" Content="Situation" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="171,10,0,0"/>
+        <RadioButton x:Name="idealButton" Content="Ideal (Ordered)" GroupName="situation" HorizontalAlignment="Left" Margin="171,41,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="worstCaseButton" Content="Worst Case (Reverse Order)" GroupName="situation" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="171,61,0,0"/>
+        <RadioButton x:Name="randomButton" Content="Random (average)" GroupName="situation" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="171,81,0,0"/>
+
+        <Label x:Name="algorithmLabel" Content="Algorithms" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="365,10,0,0"/>
+        <CheckBox x:Name="bubbleSortBox" Content="BubbleSort" HorizontalAlignment="Left" Margin="365,41,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="selectionSortBox" Content="SelectionSort" HorizontalAlignment="Left" Margin="365,61,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="insertionSortBox" Content="InsertionSort" HorizontalAlignment="Left" Margin="365,79,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="runButton" Content="Run" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="433,292,0,0" Click="runButton_Click"/>
+        <Label x:Name="versionLabel" Content="Version 1 (assignment 2)" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,285,0,0"/>
+        <CheckBox x:Name="sequentialSearchBox" Content="SequentialSearch" HorizontalAlignment="Left" Margin="365,99,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="binarySearchBox" Content="BinarySearch" HorizontalAlignment="Left" Margin="365,119,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="searchBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="Value to search for" VerticalAlignment="Top" Width="120" Margin="388,264,0,0"/>
+        <CheckBox x:Name="recursiveBinaryBox" Content="RecursiveBinarySearch" HorizontalAlignment="Left" Margin="365,139,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="mergeSortBox" Content="MergeSort" HorizontalAlignment="Left" Margin="365,159,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="quickSortBox" Content="QuickSort" HorizontalAlignment="Left" Margin="365,179,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="proofBox" Content="Disable &quot;Proof&quot; (reduces runtime if you trust that the lists are sorted(they are))" HorizontalAlignment="Left" Margin="10,225,0,0" VerticalAlignment="Top"/>
+
+
+    </Grid>
+</Window>
